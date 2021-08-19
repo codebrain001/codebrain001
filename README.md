@@ -26,4 +26,6 @@ My latest writings are:
  * [Using Advanced Analytics of Social Media Content to understand Rape in Nigeria](https://www.datasciencenigeria.org/rapeanalytics/)
  * [Machine Learning Application in the Petrophysics Industry: Sonic Log Synthesis Prediction](https://towardsdatascience.com/machine-learning-application-in-petrophysics-industry-a-sonic-log-synthesis-prediction-story-cf0ea54ffdad)
  * [Time Series Forecasting of Covid-19 Data with FBProphet](https://www.saturncloud.io/s/timeseriesforecasting/)
+
+
 [![Brain's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebrain001)](https://github.com/codebrain001/github-readme-stats)
