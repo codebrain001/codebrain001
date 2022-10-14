@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My Name is Aboze Brain John. I am Technology Business Analyst and Data Scientist. I am experienced in data science, software engineering, product research and technical writing. I combine my knowledge to build the right solution for businesses and develop data driven products.
+My Name is Aboze Brain John. I am Data Scientist. I am experienced in data science, software engineering, product research and technical writing. I combine my knowledge to build the right solution for businesses and develop data driven products.
 
 **Strong Languages**: Python
 **Currently learning**: Golang
   
-- 🔭 I’m currently  Identifying the processes and IT integration necessary to build strategic products and services at [AXA Mansard](https://www.axamansard.com/).
+- 🔭 I’m currently building amazing credit models at [Fairmoney](https://fairmoney.ng/)
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about Data Science, Machine Learning, Business Analysis and Technical writing.
 - 📫 How to reach me: Email (411.codebrain@gmail.com) [Twitter](https://twitter.com/abozebrain), [Linkedin](https://www.linkedin.com/in/brain-john-jnr-aboze-304639127/).
