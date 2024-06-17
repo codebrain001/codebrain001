@@ -5,7 +5,6 @@ My Name is Aboze Brain John. I am Data Scientist. I am experienced in data scien
 **Strong Languages**: Python
 **Currently learning**: Golang
   
-- 🔭 I’m currently building amazing credit models at [Fairmoney](https://fairmoney.ng/)
 - 👯 I’m looking to collaborate on open source tools for data science and machine learning.
 - 💬 Ask me about Data Science, Machine Learning, Business Analysis and Technical writing.
 - 📫 How to reach me: Email (411.codebrain@gmail.com) [Twitter](https://twitter.com/abozebrain), [Linkedin](https://www.linkedin.com/in/brain-john-jnr-aboze-304639127/).
